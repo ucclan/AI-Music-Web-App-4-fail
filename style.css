@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-family: cursive;
+}
+
+canvas{
+    border: 20px ridge black;
+}
